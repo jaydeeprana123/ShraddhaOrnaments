@@ -1,0 +1,32 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+
+const title_black_121313 = Color(0xFF121313);
+const black_354356 = Color(0xff354356);
+const bg_f3f5f9 = Color(0xfff3f5f9);
+const Blue_5468ff  = Color(0xff5468ff);
+const blue_3d56f0  = Color(0xff3d56f0);
+const light_black_5f6d7b = Color(0xff5f6d7b);
+
+const sky_00d9cd  = Color(0xff00d9cd);
+const grey_969da8 = Color(0xff969da8);
+const grey_d9dde3 = Color(0xffd9dde3);
+const grey_5f6d7b = Color(0xff5f6d7b);
+const grey_9db2ce = Color(0xff9db2ce);
+const grey_e2e3e5 = Color(0xffe2e3e5);
+const divider_d4dce7 = Color(0xffd4dce7);
+const unselected_greey_e7e9ff = Color(0xffe7e9ff);
+const white_ffffff = Color(0xffffffff);
+const bg_btn_199a8e = Color(0xff199a8e);
+const blue_3653f6 = Color(0xff3653f6);
+const blue_ff5b9a = Color(0xffff5b9a);
+const shadow_e5ebf6 = Color(0x50e5ebf6);
+const light_red_ffd7d9 = Color(0xffffd7d9);
+const red_ec3b45 = Color(0xffec3b45);
+const red_d9534f = Color(0xffd9534f);
+const red_d6483d = Color(0xffd6483d);
+const red_fa695e = Color(0xfffa695e);
+const green_5cb85c = Color(0xff5cb85c);
+const green_37c93a = Color(0xff37c93a);
+const light_green_e9ffe9 = Color(0xffe9ffe9);
+const orange_d6483d = Color(0xffd6483d);
