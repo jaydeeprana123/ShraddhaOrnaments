@@ -205,7 +205,7 @@ class _SplashScreenState extends State<SplashScreen>
             backgroundColor: AppTheme.background,
             body: Stack(
               children: [
-                (_bloc.apiProvider.pref.getsplceImage() != "" && (_bloc.apiProvider.pref.getUserId() != "0" && _bloc.apiProvider.pref.getUserId().isNotEmpty))
+                (_bloc.apiProvider.pref.getsplceImage() != "")
                     ? CachedNetworkImage(
                         imageUrl: _bloc.apiProvider.pref.getsplceImage(),
                         fit: BoxFit.fill,
